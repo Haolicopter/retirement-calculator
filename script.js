@@ -228,7 +228,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Component 3: Retirement Withdrawal Calculator ---
     const retirementStartingBalanceInput = document.getElementById('retirementStartingBalance');
-    const monthlySpendingInput = document.getElementById('annualSpending');
+    const monthlySpendingInput = document.getElementById('monthlySpending');
     const retirementReturnRateInput = document.getElementById('retirementReturnRate');
     const inflationRateInput = document.getElementById('inflationRate');
     const moneyLastsYearsSpan = document.getElementById('moneyLastsYears');
